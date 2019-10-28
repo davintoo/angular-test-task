@@ -1,4 +1,4 @@
-# angualr-test-task
+# angular-test-task
 
 1) Register and activate user on https://qa.davintoo.com/
 2) Create Angualr(version >= 6.x) appliaction. 
